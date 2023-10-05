@@ -1,6 +1,6 @@
 # AHTPeptideFusion
 
-## AHTPeptideFusion：A segmented fusion ACE-I inhibitory peptide predictor based on protein language model and machine learning.
+## AHTPeptideFusion：A segmented fusion ACE-I inhibitory peptide predictor based on a protein language model and machine learning.
 
 We provide a virtual environment to run AHTPeptideFusion,
 
